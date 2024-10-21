@@ -19,8 +19,8 @@
 - Learning DevOps and contributing to open-source projects.
 
 ### 📫 Connect with Me:
-- [LinkedIn](#)  
-- [My Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/saranath-raj-pasupathi-raj-0b1380319/)  
+- [My Portfolio](https://rjtechportfolio.my.canva.site)
 
 # 💻 Tech Stack:
 
