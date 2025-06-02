@@ -1,4 +1,4 @@
-# Hello, I'm Rj (Saranath Raj Pasupathi Raj) 👋
+# Hello, I'm Rj (Saranath Pasupathi Raj) 👋
 
 ## Aspiring Engineer | Master's in Computer Science
 
